@@ -1,9 +1,10 @@
+import pygame
 import circleshape
 
 class Player():
     x = 0
     y = 0
-    
+
 
 
 # in the player class
